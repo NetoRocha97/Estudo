@@ -1,5 +1,5 @@
 public class MeuPrograma {
     public static void main(String[] args) {
-        System.out.println("App \nApp2 ");
+        System.out.println("App\nApp2");
     }
 }

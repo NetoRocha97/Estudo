@@ -1,5 +1,9 @@
 public class MeuPrograma {
     public static void main(String[] args) {
-        System.out.println("App\nApp2");
+        int idade;
+        idade = 26;
+        int proximaIdade;
+        proximaIdade = idade + 1;
+        System.out.println("Minha idade é: "+ idade + "e irei completar " + proximaIdade);
     }
 }
